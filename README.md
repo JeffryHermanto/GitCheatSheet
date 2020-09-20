@@ -1,3 +1,5 @@
+![image](git.png)
+
 # Git Cheat Sheet
 > The essential Git commands every developer must know.
 
